@@ -1,2 +1,2 @@
-# HUD-Core
+# HUD Core
 Unturned Hud Core Plugin
